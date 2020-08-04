@@ -27,12 +27,28 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazimuharam&layout=compact&hide=html" alt="ghazimuharam" />
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazimuharam&show_icons=true" alt="ghazimuharam" />
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghazimuharam&show_icons=true" alt="ghazimuharam" />
+</p>
+
+# About
+### I love to code `anything` to make my life easier, but it always turn out to be more difficult. `how sad`.  
+<br/><br/>
+
+---
+
+<p>
+<img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazimuharam&layout=compact&hide=html" alt="ghazimuharam" />
+</p>
+
+## Hobby
+
+### I love doing stuff while listening to some good music. I usually code at night and I drink coffee to keep-alive.
 
 
-<!--
+<!-- 
 **ghazimuharam/ghazimuharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,5 +60,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
