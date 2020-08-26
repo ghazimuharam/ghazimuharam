@@ -24,7 +24,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
 ---
@@ -34,7 +33,7 @@
 </p>
 
 # About
-### I love to code `anything` to make my life easier, but it always turn out to be more difficult. `how sad`.  
+### I love to code `anything` to make my life easier.  
 <br/><br/>
 
 ---
