@@ -2,13 +2,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ghazimuharam" alt="ghazimuharam" /> </p>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Introfest**
+- 🔭 I’m currently working on **[CodeOnce](https://blog.codeonce.dev)**
 
-- 🌱 I’m currently learning **Data Science and a little bit infosec**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [Any open source project](https://github.com)
 
-- 💬 Ask me about **Backend Development**
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
