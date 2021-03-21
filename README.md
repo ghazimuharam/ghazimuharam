@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ghazi Muharam</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ghazimuharam" alt="ghazimuharam" /> </p>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **[CodeOnce](https://blog.codeonce.dev)**
 
