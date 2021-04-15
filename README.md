@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ghazi Muharam</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ghazimuharam" alt="ghazimuharam" /> </p>
 
-- 🔭 I’m currently working on **[CodeOnce](https://blog.codeonce.dev)**
+- 🔭 I’m currently working on **[Berdebar](https://berdebar.com)**
 
 - 🌱 I’m currently learning **Data Science**
 
