@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ghazi Muharam</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ghazimuharam" alt="ghazimuharam" /> </p>
 
-- 🔭 I’m currently working on **[Tokopedia](https://tokopedia.com)** as Software Engineer Intern
+- 🔭 I’m currently working on **[Tokopedia](https://tokopedia.com)** as Software Engineer Backend
 
 - 🌱 Having interest on Backend Stuff
 
